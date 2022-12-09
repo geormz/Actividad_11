@@ -1,0 +1,26 @@
+[
+     {
+          "id": 2,
+          "origen x ": 2,
+          "origen y ": 2,
+          "destono x": 3,
+          "destino y": 2,
+          "velocidad": 0,
+          "red ": 0,
+          "green": 0,
+          "blue": 0,
+          "distancia": 1.0
+     },
+     {
+          "id": 31,
+          "origen x ": 4,
+          "origen y ": 24,
+          "destono x": 35,
+          "destino y": 32,
+          "velocidad": 0,
+          "red ": 0,
+          "green": 0,
+          "blue": 0,
+          "distancia": 20.223748416156685
+     }
+]
